@@ -60,7 +60,7 @@ const Hero = () => {
 
   return (
     <div className='flex justify-between items-center mx-auto px-4 sm:px-8 lg:px-14 xl:px-24 pt-20 max-sm:flex-col-reverse max-sm:gap-10 overflow-hidden'>
-        <div className='relative w-[300px] sm:w-[400px] max-w-lg h-[400px] my-10 pt-0 sm:pt-5 md:pt-9'>
+        <div className='relative w-[300px] sm:w-[400px] max-w-lg h-[400px] md:my-10 pt-10 sm:pt-5 md:pt-9'>
             <motion.h1 initial={{opacity:0, y:40}} whileInView={{opacity:1, y:0}} transition={{duration:0.6, delay:0.8}} viewport={{once:true}} className='text-center md:text-left text-2xl sm:text-4xl font-bold dark:text-white'>🕊️ Hello,</motion.h1>
             <motion.h2 initial={{opacity:0, y:40}} whileInView={{opacity:1, y:0}} transition={{duration:0.6, delay:0.8}} viewport={{once:true}} className='text-center md:text-left text-3xl sm:text-5xl font-bold md:px-5 dark:text-white'>
                 I am <motion.span animate={{filter: ['hue-rotate(0deg)', 'hue-rotate(360deg)'] }} transition={{duration: 4, ease: "linear", repeat: Infinity, }} className='bg-linear-to-r from-pink-500 to-violet-500 bg-clip-text text-3xl sm:text-5xl font-extrabold text-transparent drop-shadow-lg text-shiny-effect'>Alvi</motion.span>
@@ -74,12 +74,12 @@ const Hero = () => {
                 />
             </motion.div>
             <motion.p initial={{opacity:0, y:30}} whileInView={{opacity:1, y:0}} transition={{duration:0.5, delay:1}} viewport={{once:true}} className='text-center md:text-left text-xs md:pl-5 pt-3 dark:text-white'>I am an aspiring Data Analyst and Web Developer. I have hands-on experience with SQL, Excel, and Tableau for data processing and visualization, as well as practical experience with CodeIgniter 4, Vue.js, and React.js for web development. I am an adaptable individual, eager to learn new things, and highly motivated to continue growing. I am ready to apply my skills and further develop them in a professional setting.</motion.p>
-            <motion.div initial={{opacity:0, y:30}} whileInView={{opacity:1, y:0}} transition={{duration:0.5, delay:1}} viewport={{once:true}} className='flex items-center py-5 px-4 gap-5'>
-                <a href="mailto: alfiizdiana@gmail.com" target='_blank' className='text-sm max-sm:hidden flex items-center gap-2 main-color text-white px-6 py-2 rounded-full cursor-pointer hover:scale-103 transition-all'> Hire Me <img src={assets.arrow_up_right} width={18} alt="" /></a>
-                <a href={resumeUrl} download="resume.pdf" className='text-sm max-sm:hidden flex items-center gap-2 main-color text-white px-6 py-2 rounded-full cursor-pointer hover:scale-103 transition-all'> Download CV <img src={assets.download} width={18} alt="" /></a>
+            <motion.div initial={{opacity:0, y:30}} whileInView={{opacity:1, y:0}} transition={{duration:0.5, delay:1}} viewport={{once:true}} className='flex items-center pt-10 md:pt-5 px-4 gap-5'>
+                <a href="mailto: alfiizdiana@gmail.com" target='_blank' className=' text-xs md:text-sm flex items-center gap-2 main-color text-white px-5 py-1.5 md:px-6 md:py-2 rounded-full cursor-pointer hover:scale-103 transition-all'> Hire Me <img src={assets.arrow_up_right} width={18} alt="" /></a>
+                <a href={resumeUrl} download="resume.pdf" className=' text-xs md:text-sm flex items-center gap-2 main-color text-white px-5 py-1.5 md:px-6 md:py-2 rounded-full cursor-pointer hover:scale-103 transition-all'> Download CV <img src={assets.download} width={18} alt="" /></a>
             </motion.div>
         </div>
-        <motion.div initial={{opacity:0, y:30}} whileInView={{opacity:1, y:0}} transition={{duration:0.5, delay:1}} viewport={{once:true}} className='relative w-[200px] h-[200px] sm:w-[300px] lg:w-[350px] max-w-lg sm:h-[300px] lg:h-[350px] mr-10'>
+        <motion.div initial={{opacity:0, y:30}} whileInView={{opacity:1, y:0}} transition={{duration:0.5, delay:1}} viewport={{once:true}} className='relative w-[200px] h-[200px] sm:w-[300px] lg:w-[350px] max-w-lg sm:h-[300px] lg:h-[350px] md:mr-5 lg:mr-10'>
             <img className='w-full h-full object-cover rounded-full' src={assets.alvi} alt="Photo of Alvi Zumaela Izdiana" />
 
             {/* smalls */}
