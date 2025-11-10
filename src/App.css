@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Manrope:wght@200..800&display=swap');
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+.main-color{
+    background-color: #000057;
+}
+
+.secondary-color{
+    background-color: #000080;
+}
+
+.hover-color{
+    background-color: #0000a8;
+}
+
+.text-shiny-effect {
+  text-shadow: 0 0 5px rgba(255, 210, 127, 0.7), 
+               0 0 10px rgba(66, 227, 255, 0);
+}
