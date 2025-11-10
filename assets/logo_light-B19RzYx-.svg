@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="logo_light.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.65477694"
+     inkscape:cx="533.00595"
+     inkscape:cy="539.87852"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g15" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="logo only"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <path
+       d="M 121.12387,78.934717 105.6721,52.130668 a 97.793953,97.793953 0 0 0 -1.41903,-0.01033 97.793953,97.793953 0 0 0 -1.39423,0.0098 L 60.981291,124.55312 18.809188,197.48459 a 97.793953,97.793953 0 0 0 1.102258,1.92908 l 33.289441,0.0222 z"
+       style="fill:#000057;fill-opacity:1;stroke:none;stroke-width:0.752609"
+       id="path8" />
+    <path
+       d="m 162.02474,149.88698 -21.23385,37.67108 -5.95158,-4.28811 22.95416,-40.7231 -10.33942,-17.93585 -22.09943,-38.33668 -46.690171,82.83319 26.621631,0.19792 12.56771,-22.29632 5.95106,4.28811 -27.150801,48.16761 7.513751,0.005 84.36074,0.0558 a 97.793953,97.793953 0 0 0 1.05369,-1.83452 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.752609"
+       id="path7" />
+  </g>
+  <g
+     inkscape:label="logo with text"
+     inkscape:groupmode="layer"
+     id="layer1-1"
+     transform="translate(16.644979,30.429663)"
+     style="display:none">
+    <g
+       id="g8"
+       transform="translate(-14.95102,-31.518367)">
+      <path
+         d="M 121.12387,78.934717 105.6721,52.130668 a 97.793953,97.793953 0 0 0 -1.41903,-0.01033 97.793953,97.793953 0 0 0 -1.39423,0.0098 L 60.981291,124.55312 18.809188,197.48459 a 97.793953,97.793953 0 0 0 1.102258,1.92908 l 33.289441,0.0222 z"
+         style="fill:#000057;fill-opacity:1;stroke:none;stroke-width:0.752609"
+         id="path8-8" />
+      <path
+         d="m 162.02474,149.88698 -21.23385,37.67108 -5.95158,-4.28811 22.95416,-40.7231 -10.33942,-17.93585 -22.09943,-38.33668 -46.690171,82.83319 26.621631,0.19792 12.56771,-22.29632 5.95106,4.28811 -27.150801,48.16761 7.513751,0.005 84.36074,0.0558 a 97.793953,97.793953 0 0 0 1.05369,-1.83452 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.752609"
+         id="path7-9" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:1.11125px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000057;fill-opacity:1;stroke:none;stroke-width:0.765"
+       x="0.35527596"
+       y="195.46187"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000057;fill-opacity:1;stroke-width:0.765"
+         x="0.35527596"
+         y="195.46187">ALVI I<tspan
+   style="fill:#000000"
+   id="tspan12">Z</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1"
+   id="tspan10">DIANA</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:label="logo with text light"
+     inkscape:groupmode="layer"
+     id="g15"
+     transform="translate(16.644979,30.429663)"
+     style="display:inline">
+    <g
+       id="g13"
+       transform="translate(-14.95102,-31.518367)">
+      <path
+         d="M 121.12387,78.934717 105.6721,52.130668 a 97.793953,97.793953 0 0 0 -1.41903,-0.01033 97.793953,97.793953 0 0 0 -1.39423,0.0098 L 60.981291,124.55312 18.809188,197.48459 a 97.793953,97.793953 0 0 0 1.102258,1.92908 l 33.289441,0.0222 z"
+         style="fill:#000057;fill-opacity:1;stroke:none;stroke-width:0.752609"
+         id="path12" />
+      <path
+         d="m 162.02474,149.88698 -21.23385,37.67108 -5.95158,-4.28811 22.95416,-40.7231 -10.33942,-17.93585 -22.09943,-38.33668 -46.690171,82.83319 26.621631,0.19792 12.56771,-22.29632 5.95106,4.28811 -27.150801,48.16761 7.513751,0.005 84.36074,0.0558 a 97.793953,97.793953 0 0 0 1.05369,-1.83452 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.752609"
+         id="path13" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:1.11125px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000057;fill-opacity:1;stroke:none;stroke-width:0.765"
+       x="0.35527596"
+       y="195.46187"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000057;fill-opacity:1;stroke-width:0.765"
+         x="0.35527596"
+         y="195.46187">ALVI I<tspan
+   style="fill:#ffffff"
+   id="tspan13">Z</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff;fill-opacity:1"
+   id="tspan14">DIANA</tspan></tspan></text>
+  </g>
+</svg>
