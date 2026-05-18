@@ -20,9 +20,9 @@ const ThemeTogleBtn = ({theme, setTheme}) => {
     <>
         <button>
             {theme === 'dark' ? (
-                <img onClick={()=>setTheme('light')} className='size-8.5 p-1.5 border border-gray-100 rounded-full' src={assets.sun} alt="" />
+                <img onClick={()=>setTheme('light')} className='size-8.5 p-1.5 border border-gray-100 rounded-full cursor-pointer' src={assets.sun} alt="" />
             ):(
-                <img onClick={()=>setTheme('dark')} className='size-8.5 p-1.5 border border-gray-500 rounded-full' src={assets.moon} alt="" />
+                <img onClick={()=>setTheme('dark')} className='size-8.5 p-1.5 border border-gray-500 rounded-full cursor-pointer' src={assets.moon} alt="" />
             )} 
         </button>
     </>

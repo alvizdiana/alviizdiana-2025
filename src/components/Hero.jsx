@@ -5,8 +5,7 @@ import { motion } from 'framer-motion'
 const roles = [
     "Data Analyst",
     "Web Developer",
-    "Data Visualization",
-    "System Analyst"
+    "Data Visualization"
 ];
 
 const Hero = () => {

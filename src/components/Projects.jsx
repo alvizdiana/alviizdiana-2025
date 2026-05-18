@@ -93,7 +93,7 @@ const Projects = () => {
                             key={category}
                             onClick={() => handleFilterClick(category)}
                             className={`
-                                px-6 py-2 rounded-full font-semibold text-sm transition-colors duration-200
+                                px-6 py-2 rounded-full font-semibold text-sm transition-colors duration-200 cursor-pointer
                                 ${
                                     activeFilter === category 
                                         ? 'bg-[#000080] text-white shadow-md'
