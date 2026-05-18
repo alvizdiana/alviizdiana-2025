@@ -3,6 +3,7 @@ import assets from '../../public/assets/asset.js'
 import { motion } from 'framer-motion'
 
 const roles = [
+    "Programmer",
     "Data Analyst",
     "Web Developer",
     "Data Visualization"
@@ -72,7 +73,7 @@ const Hero = () => {
                 className = "ml-1 h-8 w-1 bg-white inline-block"
                 />
             </motion.div>
-            <motion.p initial={{opacity:0, y:30}} whileInView={{opacity:1, y:0}} transition={{duration:0.5, delay:1}} viewport={{once:true}} className='text-center md:text-left text-xs md:pl-5 pt-3 dark:text-white'>I am an aspiring Data Analyst and Web Developer. I have hands-on experience with SQL, Excel, and Tableau for data processing and visualization, as well as practical experience with CodeIgniter 4, Vue.js, and React.js for web development. I am an adaptable individual, eager to learn new things, and highly motivated to continue growing. I am ready to apply my skills and further develop them in a professional setting.</motion.p>
+            <motion.p initial={{opacity:0, y:30}} whileInView={{opacity:1, y:0}} transition={{duration:0.5, delay:1}} viewport={{once:true}} className='text-center md:text-left text-xs md:pl-5 pt-3 dark:text-white'>I am a programmer with project experience in application development and data analysis using the technology stack Next.js (React.js), Tailwind CSS, Laravel, CI4, Looker Studio, Tableau, etc. I am an adaptable individual, eager to learn new things, and highly motivated to continue growing. I am ready to apply my skills and further develop them in a professional setting.</motion.p>
             <motion.div initial={{opacity:0, y:30}} whileInView={{opacity:1, y:0}} transition={{duration:0.5, delay:1}} viewport={{once:true}} className='flex items-center pt-10 md:pt-5 px-4 gap-5'>
                 <a href="mailto: alfiizdiana@gmail.com" target='_blank' className=' text-xs md:text-sm flex items-center gap-2 main-color text-white px-5 py-1.5 md:px-6 md:py-2 rounded-full cursor-pointer hover:scale-103 transition-all'> Hire Me <img src={assets.arrow_up_right} width={18} alt="" /></a>
                 <a href={resumeUrl} download="resume.pdf" className=' text-xs md:text-sm flex items-center gap-2 main-color text-white px-5 py-1.5 md:px-6 md:py-2 rounded-full cursor-pointer hover:scale-103 transition-all'> Download CV <img src={assets.download} width={18} alt="" /></a>
